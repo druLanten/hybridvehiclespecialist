@@ -63,7 +63,7 @@ const Contact = () => {
                         rel="noopener noreferrer"
                         className="mt-1 text-gray-600 hover:text-primaryBlue transition-colors group block"
                       >
-                        <p className="group-hover:underline">5 Cor Avenue, Greendale</p>
+                        <p className="group-hover:underline">4 Cor Road, Greendale</p>
                         <p className="group-hover:underline">Harare, Zimbabwe</p>
                         <span className="text-sm text-primaryBlue mt-1 opacity-0 group-hover:opacity-100 transition-opacity">
                           Open in Google Maps →
@@ -81,10 +81,10 @@ const Contact = () => {
                     <div className="ml-4">
                       <h3 className="font-medium text-gray-900">Phone Number</h3>
                       <a 
-                        href="tel:+263782175454" 
+                        href="tel:+263788984197" 
                         className="mt-1 text-gray-600 hover:text-primaryBlue transition-colors block hover:underline"
                       >
-                        +263 782 175 454
+                        +263 788 984 197
                       </a>
                       <a 
                         href="tel:+263719246165" 
